@@ -92,8 +92,6 @@ export const Content = styled.div`
       color: ${shade(0.2, '#ff9000')};
     }
   }
-  @media min-width(1300px;) {
-  }
 `;
 export const Background = styled.div`
   flex: 1;
